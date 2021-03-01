@@ -1,0 +1,2519 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:29:20] Error: Your password must be changed from the default password, please change it.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:29:28] 
+[17:29:28] Server Plugins
+[17:29:28] --------------
+[17:29:28]  Loading plugin: sscanf
+[17:29:28] 
+
+[17:29:28]  ===============================
+
+[17:29:28]       sscanf plugin loaded.     
+
+[17:29:28]          Version:  2.8.3        
+
+[17:29:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:29:28]  ===============================
+
+[17:29:28]   Loaded.
+[17:29:28]  Loaded 1 plugins.
+
+[17:29:28] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:29:28] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:29:42] 
+[17:29:42] Server Plugins
+[17:29:42] --------------
+[17:29:42]  Loading plugin: sscanf
+[17:29:42] 
+
+[17:29:42]  ===============================
+
+[17:29:42]       sscanf plugin loaded.     
+
+[17:29:42]          Version:  2.8.3        
+
+[17:29:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:29:42]  ===============================
+
+[17:29:42]   Loaded.
+[17:29:42]  Loaded 1 plugins.
+
+[17:29:42] 
+[17:29:42] Filterscripts
+[17:29:42] ---------------
+[17:29:42]   Loading filterscript 'gl_actions.amx'...
+[17:29:43]   Loading filterscript 'gl_realtime.amx'...
+[17:29:43]   Loading filterscript 'gl_property.amx'...
+[17:29:43] 
+-----------------------------------
+[17:29:43] Grand Larceny Property Filterscript		
+[17:29:43] -----------------------------------
+
+[17:29:43]   Loading filterscript 'gl_mapicon.amx'...
+[17:29:43]   Loading filterscript 'ls_elevator.amx'...
+[17:29:43]   Loading filterscript 'attachments.amx'...
+[17:29:43]   Loading filterscript 'skinchanger.amx'...
+[17:29:43] 
+--Admin Player Skin Changer Loaded
+
+[17:29:43]   Loading filterscript 'vspawner.amx'...
+[17:29:43] 
+--Admin Vehicle Spawner Loaded
+
+[17:29:43]   Loading filterscript 'ls_mall.amx'...
+[17:29:43]   Loading filterscript 'ls_beachside.amx'...
+[17:29:43] 
+
+[17:29:43]   |---------------------------------------------------
+[17:29:43]   |--- LS BeachSide Filterscript
+[17:29:43]   |--  Script v1.03
+[17:29:43]   |--  19th April 2015
+[17:29:43]   |---------------------------------------------------
+[17:29:43]   |--  LS BeachSide Building Elevator created
+[17:29:43]   |---------------------------------------------------
+[17:29:43]   Loaded 10 filterscripts.
+
+[17:29:43] Reading File: blank
+[17:29:43] Reading File: properties/houses.txt
+[17:29:43] Reading File: properties/businesses.txt
+[17:29:43] Reading File: properties/banks.txt
+[17:29:43] Reading File: properties/police.txt
+[17:29:43] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[17:29:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:34:02] 
+[17:34:02] Server Plugins
+[17:34:02] --------------
+[17:34:02]  Loading plugin: sscanf
+[17:34:02] 
+
+[17:34:02]  ===============================
+
+[17:34:02]       sscanf plugin loaded.     
+
+[17:34:02]          Version:  2.8.3        
+
+[17:34:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:34:02]  ===============================
+
+[17:34:02]   Loaded.
+[17:34:02]  Loaded 1 plugins.
+
+[17:34:02] 
+[17:34:02] Filterscripts
+[17:34:02] ---------------
+[17:34:02]   Loading filterscript 'gl_actions.amx'...
+[17:34:02]   Loading filterscript 'gl_realtime.amx'...
+[17:34:02]   Loading filterscript 'gl_property.amx'...
+[17:34:02] 
+-----------------------------------
+[17:34:02] Grand Larceny Property Filterscript		
+[17:34:02] -----------------------------------
+
+[17:34:02]   Loading filterscript 'gl_mapicon.amx'...
+[17:34:02]   Loading filterscript 'ls_elevator.amx'...
+[17:34:02]   Loading filterscript 'attachments.amx'...
+[17:34:02]   Loading filterscript 'skinchanger.amx'...
+[17:34:02] 
+--Admin Player Skin Changer Loaded
+
+[17:34:02]   Loading filterscript 'vspawner.amx'...
+[17:34:02] 
+--Admin Vehicle Spawner Loaded
+
+[17:34:02]   Loading filterscript 'ls_mall.amx'...
+[17:34:02]   Loading filterscript 'ls_beachside.amx'...
+[17:34:02] 
+
+[17:34:02]   |---------------------------------------------------
+[17:34:02]   |--- LS BeachSide Filterscript
+[17:34:02]   |--  Script v1.03
+[17:34:02]   |--  19th April 2015
+[17:34:02]   |---------------------------------------------------
+[17:34:02]   |--  LS BeachSide Building Elevator created
+[17:34:02]   |---------------------------------------------------
+[17:34:02]   Loaded 10 filterscripts.
+
+[17:34:02] Reading File: blank
+[17:34:02] Reading File: properties/houses.txt
+[17:34:02] Reading File: properties/businesses.txt
+[17:34:02] Reading File: properties/banks.txt
+[17:34:02] Reading File: properties/police.txt
+[17:34:02] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[17:34:02] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:34:26] 
+[17:34:26] Server Plugins
+[17:34:26] --------------
+[17:34:26]  Loading plugin: sscanf
+[17:34:26] 
+
+[17:34:26]  ===============================
+
+[17:34:26]       sscanf plugin loaded.     
+
+[17:34:26]          Version:  2.8.3        
+
+[17:34:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:34:26]  ===============================
+
+[17:34:26]   Loaded.
+[17:34:26]  Loaded 1 plugins.
+
+[17:34:26] 
+[17:34:26] Filterscripts
+[17:34:26] ---------------
+[17:34:26]   Loading filterscript 'gl_actions.amx'...
+[17:34:26]   Loading filterscript 'gl_realtime.amx'...
+[17:34:26]   Loading filterscript 'gl_property.amx'...
+[17:34:26] 
+-----------------------------------
+[17:34:26] Grand Larceny Property Filterscript		
+[17:34:26] -----------------------------------
+
+[17:34:26]   Loading filterscript 'gl_mapicon.amx'...
+[17:34:26]   Loading filterscript 'ls_elevator.amx'...
+[17:34:26]   Loading filterscript 'attachments.amx'...
+[17:34:26]   Loading filterscript 'skinchanger.amx'...
+[17:34:26] 
+--Admin Player Skin Changer Loaded
+
+[17:34:26]   Loading filterscript 'vspawner.amx'...
+[17:34:26] 
+--Admin Vehicle Spawner Loaded
+
+[17:34:26]   Loading filterscript 'ls_mall.amx'...
+[17:34:26]   Loading filterscript 'ls_beachside.amx'...
+[17:34:26] 
+
+[17:34:26]   |---------------------------------------------------
+[17:34:26]   |--- LS BeachSide Filterscript
+[17:34:26]   |--  Script v1.03
+[17:34:26]   |--  19th April 2015
+[17:34:26]   |---------------------------------------------------
+[17:34:26]   |--  LS BeachSide Building Elevator created
+[17:34:26]   |---------------------------------------------------
+[17:34:26]   Loaded 10 filterscripts.
+
+[17:34:26] Reading File: blank
+[17:34:26] Reading File: properties/houses.txt
+[17:34:26] Reading File: properties/businesses.txt
+[17:34:26] Reading File: properties/banks.txt
+[17:34:26] Reading File: properties/police.txt
+[17:34:26] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[17:34:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:36:50] 
+[17:36:50] Server Plugins
+[17:36:50] --------------
+[17:36:50]  Loading plugin: sscanf
+[17:36:50] 
+
+[17:36:50]  ===============================
+
+[17:36:50]       sscanf plugin loaded.     
+
+[17:36:50]          Version:  2.8.3        
+
+[17:36:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:36:50]  ===============================
+
+[17:36:50]   Loaded.
+[17:36:50]  Loaded 1 plugins.
+
+[17:36:50] 
+[17:36:50] Filterscripts
+[17:36:50] ---------------
+[17:36:50]   Loading filterscript 'gl_actions.amx'...
+[17:36:50]   Loading filterscript 'gl_realtime.amx'...
+[17:36:50]   Loading filterscript 'gl_property.amx'...
+[17:36:50] 
+-----------------------------------
+[17:36:50] Grand Larceny Property Filterscript		
+[17:36:50] -----------------------------------
+
+[17:36:50]   Loading filterscript 'gl_mapicon.amx'...
+[17:36:50]   Loading filterscript 'ls_elevator.amx'...
+[17:36:50]   Loading filterscript 'attachments.amx'...
+[17:36:50]   Loading filterscript 'skinchanger.amx'...
+[17:36:50] 
+--Admin Player Skin Changer Loaded
+
+[17:36:50]   Loading filterscript 'vspawner.amx'...
+[17:36:50] 
+--Admin Vehicle Spawner Loaded
+
+[17:36:50]   Loading filterscript 'ls_mall.amx'...
+[17:36:50]   Loading filterscript 'ls_beachside.amx'...
+[17:36:50] 
+
+[17:36:50]   |---------------------------------------------------
+[17:36:50]   |--- LS BeachSide Filterscript
+[17:36:50]   |--  Script v1.03
+[17:36:50]   |--  19th April 2015
+[17:36:50]   |---------------------------------------------------
+[17:36:50]   |--  LS BeachSide Building Elevator created
+[17:36:50]   |---------------------------------------------------
+[17:36:50]   Loaded 10 filterscripts.
+
+[17:36:50] Reading File: blank
+[17:36:50] Reading File: properties/houses.txt
+[17:36:50] Reading File: properties/businesses.txt
+[17:36:50] Reading File: properties/banks.txt
+[17:36:50] Reading File: properties/police.txt
+[17:36:50] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[17:36:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:43:01] 
+[17:43:01] Server Plugins
+[17:43:01] --------------
+[17:43:01]  Loading plugin: sscanf
+[17:43:01] 
+
+[17:43:01]  ===============================
+
+[17:43:01]       sscanf plugin loaded.     
+
+[17:43:01]          Version:  2.8.3        
+
+[17:43:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:43:01]  ===============================
+
+[17:43:01]   Loaded.
+[17:43:01]  Loaded 1 plugins.
+
+[17:43:01] 
+[17:43:01] Filterscripts
+[17:43:01] ---------------
+[17:43:01]   Loading filterscript 'gl_actions.amx'...
+[17:43:01]   Loading filterscript 'gl_realtime.amx'...
+[17:43:01]   Loading filterscript 'gl_property.amx'...
+[17:43:01] 
+-----------------------------------
+[17:43:01] Grand Larceny Property Filterscript		
+[17:43:01] -----------------------------------
+
+[17:43:01]   Loading filterscript 'gl_mapicon.amx'...
+[17:43:01]   Loading filterscript 'ls_elevator.amx'...
+[17:43:01]   Loading filterscript 'attachments.amx'...
+[17:43:01]   Loading filterscript 'skinchanger.amx'...
+[17:43:01] 
+--Admin Player Skin Changer Loaded
+
+[17:43:01]   Loading filterscript 'vspawner.amx'...
+[17:43:01] 
+--Admin Vehicle Spawner Loaded
+
+[17:43:01]   Loading filterscript 'ls_mall.amx'...
+[17:43:01]   Loading filterscript 'ls_beachside.amx'...
+[17:43:01] 
+
+[17:43:01]   |---------------------------------------------------
+[17:43:01]   |--- LS BeachSide Filterscript
+[17:43:01]   |--  Script v1.03
+[17:43:01]   |--  19th April 2015
+[17:43:01]   |---------------------------------------------------
+[17:43:01]   |--  LS BeachSide Building Elevator created
+[17:43:01]   |---------------------------------------------------
+[17:43:01]   Loaded 10 filterscripts.
+
+[17:43:01] Reading File: blank
+[17:43:01] Reading File: properties/houses.txt
+[17:43:01] Reading File: properties/businesses.txt
+[17:43:01] Reading File: properties/banks.txt
+[17:43:01] Reading File: properties/police.txt
+[17:43:01] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[17:43:01] Number of vehicle models: 0
+[17:43:29] [connection] 127.0.0.1:50252 requests connection cookie.
+[17:43:30] [connection] incoming connection: 127.0.0.1:50252 id: 0
+[17:43:30] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:52:07] 
+[17:52:07] Server Plugins
+[17:52:07] --------------
+[17:52:07]  Loading plugin: sscanf
+[17:52:07] 
+
+[17:52:07]  ===============================
+
+[17:52:07]       sscanf plugin loaded.     
+
+[17:52:07]          Version:  2.8.3        
+
+[17:52:07]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:52:07]  ===============================
+
+[17:52:07]   Loaded.
+[17:52:07]  Loaded 1 plugins.
+
+[17:52:07] 
+[17:52:07] Filterscripts
+[17:52:07] ---------------
+[17:52:07]   Loading filterscript 'gl_actions.amx'...
+[17:52:07]   Loading filterscript 'gl_realtime.amx'...
+[17:52:07]   Loading filterscript 'gl_property.amx'...
+[17:52:07] 
+-----------------------------------
+[17:52:07] Grand Larceny Property Filterscript		
+[17:52:07] -----------------------------------
+
+[17:52:07]   Loading filterscript 'gl_mapicon.amx'...
+[17:52:07]   Loading filterscript 'ls_elevator.amx'...
+[17:52:07]   Loading filterscript 'attachments.amx'...
+[17:52:07]   Loading filterscript 'skinchanger.amx'...
+[17:52:07] 
+--Admin Player Skin Changer Loaded
+
+[17:52:07]   Loading filterscript 'vspawner.amx'...
+[17:52:07] 
+--Admin Vehicle Spawner Loaded
+
+[17:52:07]   Loading filterscript 'ls_mall.amx'...
+[17:52:07]   Loading filterscript 'ls_beachside.amx'...
+[17:52:07] 
+
+[17:52:07]   |---------------------------------------------------
+[17:52:07]   |--- LS BeachSide Filterscript
+[17:52:07]   |--  Script v1.03
+[17:52:07]   |--  19th April 2015
+[17:52:07]   |---------------------------------------------------
+[17:52:07]   |--  LS BeachSide Building Elevator created
+[17:52:07]   |---------------------------------------------------
+[17:52:07]   Loaded 10 filterscripts.
+
+[17:52:07] Reading File: blank
+[17:52:07] Reading File: properties/houses.txt
+[17:52:07] Reading File: properties/businesses.txt
+[17:52:07] Reading File: properties/banks.txt
+[17:52:07] Reading File: properties/police.txt
+[17:52:07] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[17:52:07] Number of vehicle models: 0
+[17:52:14] [connection] 127.0.0.1:64402 requests connection cookie.
+[17:52:15] [connection] incoming connection: 127.0.0.1:64402 id: 0
+[17:52:15] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:56:20] 
+[17:56:20] Server Plugins
+[17:56:20] --------------
+[17:56:20]  Loading plugin: sscanf
+[17:56:20] 
+
+[17:56:20]  ===============================
+
+[17:56:20]       sscanf plugin loaded.     
+
+[17:56:20]          Version:  2.8.3        
+
+[17:56:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:56:20]  ===============================
+
+[17:56:20]   Loaded.
+[17:56:20]  Loaded 1 plugins.
+
+[17:56:20] 
+[17:56:20] Filterscripts
+[17:56:20] ---------------
+[17:56:20]   Loading filterscript 'gl_actions.amx'...
+[17:56:20]   Loading filterscript 'gl_realtime.amx'...
+[17:56:20]   Loading filterscript 'gl_property.amx'...
+[17:56:20] 
+-----------------------------------
+[17:56:20] Grand Larceny Property Filterscript		
+[17:56:20] -----------------------------------
+
+[17:56:20]   Loading filterscript 'gl_mapicon.amx'...
+[17:56:20]   Loading filterscript 'ls_elevator.amx'...
+[17:56:20]   Loading filterscript 'attachments.amx'...
+[17:56:20]   Loading filterscript 'skinchanger.amx'...
+[17:56:20] 
+--Admin Player Skin Changer Loaded
+
+[17:56:20]   Loading filterscript 'vspawner.amx'...
+[17:56:20] 
+--Admin Vehicle Spawner Loaded
+
+[17:56:20]   Loading filterscript 'ls_mall.amx'...
+[17:56:20]   Loading filterscript 'ls_beachside.amx'...
+[17:56:20] 
+
+[17:56:20]   |---------------------------------------------------
+[17:56:20]   |--- LS BeachSide Filterscript
+[17:56:20]   |--  Script v1.03
+[17:56:20]   |--  19th April 2015
+[17:56:20]   |---------------------------------------------------
+[17:56:20]   |--  LS BeachSide Building Elevator created
+[17:56:20]   |---------------------------------------------------
+[17:56:20]   Loaded 10 filterscripts.
+
+[17:56:20] Reading File: blank
+[17:56:20] Reading File: properties/houses.txt
+[17:56:20] Reading File: properties/businesses.txt
+[17:56:20] Reading File: properties/banks.txt
+[17:56:20] Reading File: properties/police.txt
+[17:56:20] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[17:56:20] Number of vehicle models: 0
+[17:56:40] [connection] 127.0.0.1:55910 requests connection cookie.
+[17:56:41] [connection] incoming connection: 127.0.0.1:55910 id: 0
+[17:56:41] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:57:05] 
+[17:57:05] Server Plugins
+[17:57:05] --------------
+[17:57:05]  Loading plugin: sscanf
+[17:57:05] 
+
+[17:57:05]  ===============================
+
+[17:57:05]       sscanf plugin loaded.     
+
+[17:57:05]          Version:  2.8.3        
+
+[17:57:05]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:57:05]  ===============================
+
+[17:57:05]   Loaded.
+[17:57:05]  Loaded 1 plugins.
+
+[17:57:05] 
+[17:57:05] Filterscripts
+[17:57:05] ---------------
+[17:57:05]   Loading filterscript 'gl_actions.amx'...
+[17:57:05]   Loading filterscript 'gl_realtime.amx'...
+[17:57:05]   Loading filterscript 'gl_property.amx'...
+[17:57:05] 
+-----------------------------------
+[17:57:05] Grand Larceny Property Filterscript		
+[17:57:05] -----------------------------------
+
+[17:57:05]   Loading filterscript 'gl_mapicon.amx'...
+[17:57:05]   Loading filterscript 'ls_elevator.amx'...
+[17:57:05]   Loading filterscript 'attachments.amx'...
+[17:57:05]   Loading filterscript 'skinchanger.amx'...
+[17:57:05] 
+--Admin Player Skin Changer Loaded
+
+[17:57:05]   Loading filterscript 'vspawner.amx'...
+[17:57:05] 
+--Admin Vehicle Spawner Loaded
+
+[17:57:05]   Loading filterscript 'ls_mall.amx'...
+[17:57:05]   Loading filterscript 'ls_beachside.amx'...
+[17:57:05] 
+
+[17:57:05]   |---------------------------------------------------
+[17:57:05]   |--- LS BeachSide Filterscript
+[17:57:05]   |--  Script v1.03
+[17:57:05]   |--  19th April 2015
+[17:57:05]   |---------------------------------------------------
+[17:57:05]   |--  LS BeachSide Building Elevator created
+[17:57:05]   |---------------------------------------------------
+[17:57:05]   Loaded 10 filterscripts.
+
+[17:57:05] Reading File: blank
+[17:57:05] Reading File: properties/houses.txt
+[17:57:05] Reading File: properties/businesses.txt
+[17:57:05] Reading File: properties/banks.txt
+[17:57:05] Reading File: properties/police.txt
+[17:57:05] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[17:57:05] Number of vehicle models: 0
+[17:57:24] [connection] 127.0.0.1:64934 requests connection cookie.
+[17:57:25] [connection] incoming connection: 127.0.0.1:64934 id: 0
+[17:57:25] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:59:28] 
+[17:59:28] Server Plugins
+[17:59:28] --------------
+[17:59:28]  Loading plugin: sscanf
+[17:59:28] 
+
+[17:59:28]  ===============================
+
+[17:59:28]       sscanf plugin loaded.     
+
+[17:59:28]          Version:  2.8.3        
+
+[17:59:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:59:28]  ===============================
+
+[17:59:28]   Loaded.
+[17:59:28]  Loaded 1 plugins.
+
+[17:59:28] 
+[17:59:28] Filterscripts
+[17:59:28] ---------------
+[17:59:28]   Loading filterscript 'gl_actions.amx'...
+[17:59:28]   Loading filterscript 'gl_realtime.amx'...
+[17:59:28]   Loading filterscript 'gl_property.amx'...
+[17:59:28] 
+-----------------------------------
+[17:59:28] Grand Larceny Property Filterscript		
+[17:59:28] -----------------------------------
+
+[17:59:28]   Loading filterscript 'gl_mapicon.amx'...
+[17:59:28]   Loading filterscript 'ls_elevator.amx'...
+[17:59:28]   Loading filterscript 'attachments.amx'...
+[17:59:28]   Loading filterscript 'skinchanger.amx'...
+[17:59:28] 
+--Admin Player Skin Changer Loaded
+
+[17:59:28]   Loading filterscript 'vspawner.amx'...
+[17:59:28] 
+--Admin Vehicle Spawner Loaded
+
+[17:59:28]   Loading filterscript 'ls_mall.amx'...
+[17:59:28]   Loading filterscript 'ls_beachside.amx'...
+[17:59:28] 
+
+[17:59:28]   |---------------------------------------------------
+[17:59:28]   |--- LS BeachSide Filterscript
+[17:59:28]   |--  Script v1.03
+[17:59:28]   |--  19th April 2015
+[17:59:28]   |---------------------------------------------------
+[17:59:28]   |--  LS BeachSide Building Elevator created
+[17:59:28]   |---------------------------------------------------
+[17:59:28]   Loaded 10 filterscripts.
+
+[17:59:28] Reading File: blank
+[17:59:28] Reading File: properties/houses.txt
+[17:59:28] Reading File: properties/businesses.txt
+[17:59:28] Reading File: properties/banks.txt
+[17:59:28] Reading File: properties/police.txt
+[17:59:28] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[17:59:28] Number of vehicle models: 0
+[17:59:39] [connection] 127.0.0.1:65448 requests connection cookie.
+[17:59:40] [connection] incoming connection: 127.0.0.1:65448 id: 0
+[17:59:40] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:02:28] 
+[18:02:28] Server Plugins
+[18:02:28] --------------
+[18:02:28]  Loading plugin: sscanf
+[18:02:28] 
+
+[18:02:28]  ===============================
+
+[18:02:28]       sscanf plugin loaded.     
+
+[18:02:28]          Version:  2.8.3        
+
+[18:02:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:02:28]  ===============================
+
+[18:02:28]   Loaded.
+[18:02:28]  Loaded 1 plugins.
+
+[18:02:28] 
+[18:02:28] Filterscripts
+[18:02:28] ---------------
+[18:02:28]   Loading filterscript 'gl_actions.amx'...
+[18:02:28]   Loading filterscript 'gl_realtime.amx'...
+[18:02:28]   Loading filterscript 'gl_property.amx'...
+[18:02:28] 
+-----------------------------------
+[18:02:28] Grand Larceny Property Filterscript		
+[18:02:28] -----------------------------------
+
+[18:02:28]   Loading filterscript 'gl_mapicon.amx'...
+[18:02:28]   Loading filterscript 'ls_elevator.amx'...
+[18:02:28]   Loading filterscript 'attachments.amx'...
+[18:02:28]   Loading filterscript 'skinchanger.amx'...
+[18:02:28] 
+--Admin Player Skin Changer Loaded
+
+[18:02:28]   Loading filterscript 'vspawner.amx'...
+[18:02:28] 
+--Admin Vehicle Spawner Loaded
+
+[18:02:28]   Loading filterscript 'ls_mall.amx'...
+[18:02:28]   Loading filterscript 'ls_beachside.amx'...
+[18:02:28] 
+
+[18:02:28]   |---------------------------------------------------
+[18:02:28]   |--- LS BeachSide Filterscript
+[18:02:28]   |--  Script v1.03
+[18:02:28]   |--  19th April 2015
+[18:02:28]   |---------------------------------------------------
+[18:02:28]   |--  LS BeachSide Building Elevator created
+[18:02:28]   |---------------------------------------------------
+[18:02:28]   Loaded 10 filterscripts.
+
+[18:02:28] Reading File: blank
+[18:02:28] Reading File: properties/houses.txt
+[18:02:28] Reading File: properties/businesses.txt
+[18:02:28] Reading File: properties/banks.txt
+[18:02:28] Reading File: properties/police.txt
+[18:02:28] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[18:02:28] Number of vehicle models: 0
+[18:02:43] [connection] 127.0.0.1:51451 requests connection cookie.
+[18:02:44] [connection] incoming connection: 127.0.0.1:51451 id: 0
+[18:02:44] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:03:24] 
+[18:03:24] Server Plugins
+[18:03:24] --------------
+[18:03:24]  Loading plugin: sscanf
+[18:03:24] 
+
+[18:03:24]  ===============================
+
+[18:03:24]       sscanf plugin loaded.     
+
+[18:03:24]          Version:  2.8.3        
+
+[18:03:24]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:03:24]  ===============================
+
+[18:03:24]   Loaded.
+[18:03:24]  Loaded 1 plugins.
+
+[18:03:24] 
+[18:03:24] Filterscripts
+[18:03:24] ---------------
+[18:03:24]   Loading filterscript 'gl_actions.amx'...
+[18:03:24]   Loading filterscript 'gl_realtime.amx'...
+[18:03:24]   Loading filterscript 'gl_property.amx'...
+[18:03:24] 
+-----------------------------------
+[18:03:24] Grand Larceny Property Filterscript		
+[18:03:24] -----------------------------------
+
+[18:03:24]   Loading filterscript 'gl_mapicon.amx'...
+[18:03:24]   Loading filterscript 'ls_elevator.amx'...
+[18:03:24]   Loading filterscript 'attachments.amx'...
+[18:03:24]   Loading filterscript 'skinchanger.amx'...
+[18:03:24] 
+--Admin Player Skin Changer Loaded
+
+[18:03:24]   Loading filterscript 'vspawner.amx'...
+[18:03:24] 
+--Admin Vehicle Spawner Loaded
+
+[18:03:24]   Loading filterscript 'ls_mall.amx'...
+[18:03:24]   Loading filterscript 'ls_beachside.amx'...
+[18:03:24] 
+
+[18:03:24]   |---------------------------------------------------
+[18:03:24]   |--- LS BeachSide Filterscript
+[18:03:24]   |--  Script v1.03
+[18:03:24]   |--  19th April 2015
+[18:03:24]   |---------------------------------------------------
+[18:03:24]   |--  LS BeachSide Building Elevator created
+[18:03:24]   |---------------------------------------------------
+[18:03:24]   Loaded 10 filterscripts.
+
+[18:03:24] Reading File: blank
+[18:03:24] Reading File: properties/houses.txt
+[18:03:24] Reading File: properties/businesses.txt
+[18:03:24] Reading File: properties/banks.txt
+[18:03:24] Reading File: properties/police.txt
+[18:03:24] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[18:03:24] Number of vehicle models: 0
+[18:03:38] [connection] 127.0.0.1:51458 requests connection cookie.
+[18:03:39] [connection] incoming connection: 127.0.0.1:51458 id: 0
+[18:03:39] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:06:21] 
+[18:06:21] Server Plugins
+[18:06:21] --------------
+[18:06:21]  Loading plugin: sscanf
+[18:06:21] 
+
+[18:06:21]  ===============================
+
+[18:06:21]       sscanf plugin loaded.     
+
+[18:06:21]          Version:  2.8.3        
+
+[18:06:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:06:21]  ===============================
+
+[18:06:21]   Loaded.
+[18:06:21]  Loaded 1 plugins.
+
+[18:06:21] 
+[18:06:21] Filterscripts
+[18:06:21] ---------------
+[18:06:21]   Loading filterscript 'gl_actions.amx'...
+[18:06:21]   Loading filterscript 'gl_realtime.amx'...
+[18:06:21]   Loading filterscript 'gl_property.amx'...
+[18:06:21] 
+-----------------------------------
+[18:06:21] Grand Larceny Property Filterscript		
+[18:06:21] -----------------------------------
+
+[18:06:21]   Loading filterscript 'gl_mapicon.amx'...
+[18:06:21]   Loading filterscript 'ls_elevator.amx'...
+[18:06:21]   Loading filterscript 'attachments.amx'...
+[18:06:21]   Loading filterscript 'skinchanger.amx'...
+[18:06:21] 
+--Admin Player Skin Changer Loaded
+
+[18:06:21]   Loading filterscript 'vspawner.amx'...
+[18:06:21] 
+--Admin Vehicle Spawner Loaded
+
+[18:06:21]   Loading filterscript 'ls_mall.amx'...
+[18:06:21]   Loading filterscript 'ls_beachside.amx'...
+[18:06:21] 
+
+[18:06:21]   |---------------------------------------------------
+[18:06:21]   |--- LS BeachSide Filterscript
+[18:06:21]   |--  Script v1.03
+[18:06:21]   |--  19th April 2015
+[18:06:21]   |---------------------------------------------------
+[18:06:21]   |--  LS BeachSide Building Elevator created
+[18:06:21]   |---------------------------------------------------
+[18:06:21]   Loaded 10 filterscripts.
+
+[18:06:21] Reading File: blank
+[18:06:21] Reading File: properties/houses.txt
+[18:06:21] Reading File: properties/businesses.txt
+[18:06:21] Reading File: properties/banks.txt
+[18:06:21] Reading File: properties/police.txt
+[18:06:21] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[18:06:21] Number of vehicle models: 0
+[18:06:34] [connection] 127.0.0.1:59770 requests connection cookie.
+[18:06:35] [connection] incoming connection: 127.0.0.1:59770 id: 0
+[18:06:35] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:07:58] 
+[18:07:58] Server Plugins
+[18:07:58] --------------
+[18:07:58]  Loading plugin: sscanf
+[18:07:58] 
+
+[18:07:58]  ===============================
+
+[18:07:58]       sscanf plugin loaded.     
+
+[18:07:58]          Version:  2.8.3        
+
+[18:07:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:07:58]  ===============================
+
+[18:07:58]   Loaded.
+[18:07:58]  Loaded 1 plugins.
+
+[18:07:58] 
+[18:07:58] Filterscripts
+[18:07:58] ---------------
+[18:07:58]   Loading filterscript 'gl_actions.amx'...
+[18:07:58]   Loading filterscript 'gl_realtime.amx'...
+[18:07:58]   Loading filterscript 'gl_property.amx'...
+[18:07:58] 
+-----------------------------------
+[18:07:58] Grand Larceny Property Filterscript		
+[18:07:58] -----------------------------------
+
+[18:07:58]   Loading filterscript 'gl_mapicon.amx'...
+[18:07:58]   Loading filterscript 'ls_elevator.amx'...
+[18:07:58]   Loading filterscript 'attachments.amx'...
+[18:07:58]   Loading filterscript 'skinchanger.amx'...
+[18:07:58] 
+--Admin Player Skin Changer Loaded
+
+[18:07:58]   Loading filterscript 'vspawner.amx'...
+[18:07:58] 
+--Admin Vehicle Spawner Loaded
+
+[18:07:58]   Loading filterscript 'ls_mall.amx'...
+[18:07:58]   Loading filterscript 'ls_beachside.amx'...
+[18:07:58] 
+
+[18:07:58]   |---------------------------------------------------
+[18:07:58]   |--- LS BeachSide Filterscript
+[18:07:58]   |--  Script v1.03
+[18:07:58]   |--  19th April 2015
+[18:07:58]   |---------------------------------------------------
+[18:07:58]   |--  LS BeachSide Building Elevator created
+[18:07:58]   |---------------------------------------------------
+[18:07:58]   Loaded 10 filterscripts.
+
+[18:07:58] Reading File: blank
+[18:07:58] Reading File: properties/houses.txt
+[18:07:58] Reading File: properties/businesses.txt
+[18:07:58] Reading File: properties/banks.txt
+[18:07:58] Reading File: properties/police.txt
+[18:07:58] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[18:07:58] Number of vehicle models: 0
+[18:08:38] [connection] 127.0.0.1:60178 requests connection cookie.
+[18:08:39] [connection] incoming connection: 127.0.0.1:60178 id: 0
+[18:08:39] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:09:09] 
+[18:09:09] Server Plugins
+[18:09:09] --------------
+[18:09:09]  Loading plugin: sscanf
+[18:09:09] 
+
+[18:09:09]  ===============================
+
+[18:09:09]       sscanf plugin loaded.     
+
+[18:09:09]          Version:  2.8.3        
+
+[18:09:09]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:09:09]  ===============================
+
+[18:09:09]   Loaded.
+[18:09:09]  Loaded 1 plugins.
+
+[18:09:09] 
+[18:09:09] Filterscripts
+[18:09:09] ---------------
+[18:09:09]   Loading filterscript 'gl_actions.amx'...
+[18:09:09]   Loading filterscript 'gl_realtime.amx'...
+[18:09:09]   Loading filterscript 'gl_property.amx'...
+[18:09:09] 
+-----------------------------------
+[18:09:09] Grand Larceny Property Filterscript		
+[18:09:09] -----------------------------------
+
+[18:09:09]   Loading filterscript 'gl_mapicon.amx'...
+[18:09:09]   Loading filterscript 'ls_elevator.amx'...
+[18:09:09]   Loading filterscript 'attachments.amx'...
+[18:09:09]   Loading filterscript 'skinchanger.amx'...
+[18:09:09] 
+--Admin Player Skin Changer Loaded
+
+[18:09:09]   Loading filterscript 'vspawner.amx'...
+[18:09:09] 
+--Admin Vehicle Spawner Loaded
+
+[18:09:09]   Loading filterscript 'ls_mall.amx'...
+[18:09:09]   Loading filterscript 'ls_beachside.amx'...
+[18:09:09] 
+
+[18:09:09]   |---------------------------------------------------
+[18:09:09]   |--- LS BeachSide Filterscript
+[18:09:09]   |--  Script v1.03
+[18:09:09]   |--  19th April 2015
+[18:09:09]   |---------------------------------------------------
+[18:09:09]   |--  LS BeachSide Building Elevator created
+[18:09:09]   |---------------------------------------------------
+[18:09:09]   Loaded 10 filterscripts.
+
+[18:09:09] Reading File: blank
+[18:09:09] Reading File: properties/houses.txt
+[18:09:09] Reading File: properties/businesses.txt
+[18:09:09] Reading File: properties/banks.txt
+[18:09:09] Reading File: properties/police.txt
+[18:09:09] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[18:09:09] Number of vehicle models: 0
+[18:09:19] [connection] 127.0.0.1:60195 requests connection cookie.
+[18:09:20] [connection] incoming connection: 127.0.0.1:60195 id: 0
+[18:09:21] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:10:30] 
+[18:10:30] Server Plugins
+[18:10:30] --------------
+[18:10:30]  Loading plugin: sscanf
+[18:10:30] 
+
+[18:10:30]  ===============================
+
+[18:10:30]       sscanf plugin loaded.     
+
+[18:10:30]          Version:  2.8.3        
+
+[18:10:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:10:30]  ===============================
+
+[18:10:30]   Loaded.
+[18:10:30]  Loaded 1 plugins.
+
+[18:10:30] 
+[18:10:30] Filterscripts
+[18:10:30] ---------------
+[18:10:30]   Loading filterscript 'gl_actions.amx'...
+[18:10:30]   Loading filterscript 'gl_realtime.amx'...
+[18:10:30]   Loading filterscript 'gl_property.amx'...
+[18:10:30] 
+-----------------------------------
+[18:10:30] Grand Larceny Property Filterscript		
+[18:10:30] -----------------------------------
+
+[18:10:30]   Loading filterscript 'gl_mapicon.amx'...
+[18:10:30]   Loading filterscript 'ls_elevator.amx'...
+[18:10:30]   Loading filterscript 'attachments.amx'...
+[18:10:30]   Loading filterscript 'skinchanger.amx'...
+[18:10:30] 
+--Admin Player Skin Changer Loaded
+
+[18:10:30]   Loading filterscript 'vspawner.amx'...
+[18:10:30] 
+--Admin Vehicle Spawner Loaded
+
+[18:10:30]   Loading filterscript 'ls_mall.amx'...
+[18:10:30]   Loading filterscript 'ls_beachside.amx'...
+[18:10:30] 
+
+[18:10:30]   |---------------------------------------------------
+[18:10:30]   |--- LS BeachSide Filterscript
+[18:10:30]   |--  Script v1.03
+[18:10:30]   |--  19th April 2015
+[18:10:30]   |---------------------------------------------------
+[18:10:30]   |--  LS BeachSide Building Elevator created
+[18:10:30]   |---------------------------------------------------
+[18:10:30]   Loaded 10 filterscripts.
+
+[18:10:30] Reading File: blank
+[18:10:30] Reading File: properties/houses.txt
+[18:10:30] Reading File: properties/businesses.txt
+[18:10:30] Reading File: properties/banks.txt
+[18:10:30] Reading File: properties/police.txt
+[18:10:30] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[18:10:30] Number of vehicle models: 0
+[18:10:49] [connection] 127.0.0.1:55967 requests connection cookie.
+[18:10:50] [connection] incoming connection: 127.0.0.1:55967 id: 0
+[18:10:50] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:14:28] 
+[18:14:28] Server Plugins
+[18:14:28] --------------
+[18:14:28]  Loading plugin: sscanf
+[18:14:28] 
+
+[18:14:28]  ===============================
+
+[18:14:28]       sscanf plugin loaded.     
+
+[18:14:28]          Version:  2.8.3        
+
+[18:14:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:14:28]  ===============================
+
+[18:14:28]   Loaded.
+[18:14:28]  Loaded 1 plugins.
+
+[18:14:28] 
+[18:14:28] Filterscripts
+[18:14:28] ---------------
+[18:14:28]   Loading filterscript 'gl_actions.amx'...
+[18:14:28]   Loading filterscript 'gl_realtime.amx'...
+[18:14:28]   Loading filterscript 'gl_property.amx'...
+[18:14:28] 
+-----------------------------------
+[18:14:28] Grand Larceny Property Filterscript		
+[18:14:28] -----------------------------------
+
+[18:14:28]   Loading filterscript 'gl_mapicon.amx'...
+[18:14:28]   Loading filterscript 'ls_elevator.amx'...
+[18:14:28]   Loading filterscript 'attachments.amx'...
+[18:14:28]   Loading filterscript 'skinchanger.amx'...
+[18:14:28] 
+--Admin Player Skin Changer Loaded
+
+[18:14:28]   Loading filterscript 'vspawner.amx'...
+[18:14:28] 
+--Admin Vehicle Spawner Loaded
+
+[18:14:28]   Loading filterscript 'ls_mall.amx'...
+[18:14:28]   Loading filterscript 'ls_beachside.amx'...
+[18:14:28] 
+
+[18:14:28]   |---------------------------------------------------
+[18:14:28]   |--- LS BeachSide Filterscript
+[18:14:28]   |--  Script v1.03
+[18:14:28]   |--  19th April 2015
+[18:14:28]   |---------------------------------------------------
+[18:14:28]   |--  LS BeachSide Building Elevator created
+[18:14:28]   |---------------------------------------------------
+[18:14:28]   Loaded 10 filterscripts.
+
+[18:14:28] Reading File: blank
+[18:14:28] Reading File: properties/houses.txt
+[18:14:28] Reading File: properties/businesses.txt
+[18:14:28] Reading File: properties/banks.txt
+[18:14:28] Reading File: properties/police.txt
+[18:14:28] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[18:14:28] Number of vehicle models: 0
+[18:14:49] [connection] 127.0.0.1:52834 requests connection cookie.
+[18:14:50] [connection] incoming connection: 127.0.0.1:52834 id: 0
+[18:14:50] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:15:38] 
+[18:15:38] Server Plugins
+[18:15:38] --------------
+[18:15:38]  Loading plugin: sscanf
+[18:15:38] 
+
+[18:15:38]  ===============================
+
+[18:15:38]       sscanf plugin loaded.     
+
+[18:15:38]          Version:  2.8.3        
+
+[18:15:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:15:38]  ===============================
+
+[18:15:38]   Loaded.
+[18:15:38]  Loaded 1 plugins.
+
+[18:15:38] 
+[18:15:38] Filterscripts
+[18:15:38] ---------------
+[18:15:38]   Loading filterscript 'gl_actions.amx'...
+[18:15:38]   Loading filterscript 'gl_realtime.amx'...
+[18:15:38]   Loading filterscript 'gl_property.amx'...
+[18:15:38] 
+-----------------------------------
+[18:15:38] Grand Larceny Property Filterscript		
+[18:15:38] -----------------------------------
+
+[18:15:38]   Loading filterscript 'gl_mapicon.amx'...
+[18:15:38]   Loading filterscript 'ls_elevator.amx'...
+[18:15:38]   Loading filterscript 'attachments.amx'...
+[18:15:38]   Loading filterscript 'skinchanger.amx'...
+[18:15:38] 
+--Admin Player Skin Changer Loaded
+
+[18:15:38]   Loading filterscript 'vspawner.amx'...
+[18:15:38] 
+--Admin Vehicle Spawner Loaded
+
+[18:15:38]   Loading filterscript 'ls_mall.amx'...
+[18:15:38]   Loading filterscript 'ls_beachside.amx'...
+[18:15:38] 
+
+[18:15:38]   |---------------------------------------------------
+[18:15:38]   |--- LS BeachSide Filterscript
+[18:15:38]   |--  Script v1.03
+[18:15:38]   |--  19th April 2015
+[18:15:38]   |---------------------------------------------------
+[18:15:38]   |--  LS BeachSide Building Elevator created
+[18:15:38]   |---------------------------------------------------
+[18:15:38]   Loaded 10 filterscripts.
+
+[18:15:38] Reading File: blank
+[18:15:38] Reading File: properties/houses.txt
+[18:15:38] Reading File: properties/businesses.txt
+[18:15:38] Reading File: properties/banks.txt
+[18:15:38] Reading File: properties/police.txt
+[18:15:38] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[18:15:38] Number of vehicle models: 0
+[18:15:52] [connection] 127.0.0.1:52849 requests connection cookie.
+[18:15:53] [connection] incoming connection: 127.0.0.1:52849 id: 0
+[18:15:53] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:16:28] 
+[18:16:28] Server Plugins
+[18:16:28] --------------
+[18:16:28]  Loading plugin: sscanf
+[18:16:28] 
+
+[18:16:28]  ===============================
+
+[18:16:28]       sscanf plugin loaded.     
+
+[18:16:28]          Version:  2.8.3        
+
+[18:16:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:16:28]  ===============================
+
+[18:16:28]   Loaded.
+[18:16:28]  Loaded 1 plugins.
+
+[18:16:28] 
+[18:16:28] Filterscripts
+[18:16:28] ---------------
+[18:16:28]   Loading filterscript 'gl_actions.amx'...
+[18:16:28]   Loading filterscript 'gl_realtime.amx'...
+[18:16:28]   Loading filterscript 'gl_property.amx'...
+[18:16:28] 
+-----------------------------------
+[18:16:28] Grand Larceny Property Filterscript		
+[18:16:28] -----------------------------------
+
+[18:16:28]   Loading filterscript 'gl_mapicon.amx'...
+[18:16:28]   Loading filterscript 'ls_elevator.amx'...
+[18:16:28]   Loading filterscript 'attachments.amx'...
+[18:16:28]   Loading filterscript 'skinchanger.amx'...
+[18:16:28] 
+--Admin Player Skin Changer Loaded
+
+[18:16:28]   Loading filterscript 'vspawner.amx'...
+[18:16:28] 
+--Admin Vehicle Spawner Loaded
+
+[18:16:28]   Loading filterscript 'ls_mall.amx'...
+[18:16:28]   Loading filterscript 'ls_beachside.amx'...
+[18:16:28] 
+
+[18:16:28]   |---------------------------------------------------
+[18:16:28]   |--- LS BeachSide Filterscript
+[18:16:28]   |--  Script v1.03
+[18:16:28]   |--  19th April 2015
+[18:16:28]   |---------------------------------------------------
+[18:16:28]   |--  LS BeachSide Building Elevator created
+[18:16:28]   |---------------------------------------------------
+[18:16:28]   Loaded 10 filterscripts.
+
+[18:16:28] Reading File: blank
+[18:16:28] Reading File: properties/houses.txt
+[18:16:28] Reading File: properties/businesses.txt
+[18:16:28] Reading File: properties/banks.txt
+[18:16:28] Reading File: properties/police.txt
+[18:16:28] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[18:16:28] Number of vehicle models: 0
+[18:16:48] [connection] 127.0.0.1:52860 requests connection cookie.
+[18:16:49] [connection] incoming connection: 127.0.0.1:52860 id: 0
+[18:16:49] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:17:44] 
+[18:17:44] Server Plugins
+[18:17:44] --------------
+[18:17:44]  Loading plugin: sscanf
+[18:17:44] 
+
+[18:17:44]  ===============================
+
+[18:17:44]       sscanf plugin loaded.     
+
+[18:17:44]          Version:  2.8.3        
+
+[18:17:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:17:44]  ===============================
+
+[18:17:44]   Loaded.
+[18:17:44]  Loaded 1 plugins.
+
+[18:17:44] 
+[18:17:44] Filterscripts
+[18:17:44] ---------------
+[18:17:44]   Loading filterscript 'gl_actions.amx'...
+[18:17:44]   Loading filterscript 'gl_realtime.amx'...
+[18:17:44]   Loading filterscript 'gl_property.amx'...
+[18:17:44] 
+-----------------------------------
+[18:17:44] Grand Larceny Property Filterscript		
+[18:17:44] -----------------------------------
+
+[18:17:44]   Loading filterscript 'gl_mapicon.amx'...
+[18:17:44]   Loading filterscript 'ls_elevator.amx'...
+[18:17:44]   Loading filterscript 'attachments.amx'...
+[18:17:44]   Loading filterscript 'skinchanger.amx'...
+[18:17:44] 
+--Admin Player Skin Changer Loaded
+
+[18:17:44]   Loading filterscript 'vspawner.amx'...
+[18:17:44] 
+--Admin Vehicle Spawner Loaded
+
+[18:17:44]   Loading filterscript 'ls_mall.amx'...
+[18:17:44]   Loading filterscript 'ls_beachside.amx'...
+[18:17:44] 
+
+[18:17:44]   |---------------------------------------------------
+[18:17:44]   |--- LS BeachSide Filterscript
+[18:17:44]   |--  Script v1.03
+[18:17:44]   |--  19th April 2015
+[18:17:44]   |---------------------------------------------------
+[18:17:44]   |--  LS BeachSide Building Elevator created
+[18:17:44]   |---------------------------------------------------
+[18:17:44]   Loaded 10 filterscripts.
+
+[18:17:44] Reading File: blank
+[18:17:44] Reading File: properties/houses.txt
+[18:17:44] Reading File: properties/businesses.txt
+[18:17:44] Reading File: properties/banks.txt
+[18:17:44] Reading File: properties/police.txt
+[18:17:44] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[18:17:44] Number of vehicle models: 0
+[18:19:57] [connection] 127.0.0.1:56100 requests connection cookie.
+[18:19:58] [connection] incoming connection: 127.0.0.1:56100 id: 0
+[18:19:58] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:07:28] 
+[19:07:28] Server Plugins
+[19:07:28] --------------
+[19:07:28]  Loading plugin: sscanf
+[19:07:28] 
+
+[19:07:28]  ===============================
+
+[19:07:28]       sscanf plugin loaded.     
+
+[19:07:28]          Version:  2.8.3        
+
+[19:07:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:07:28]  ===============================
+
+[19:07:28]   Loaded.
+[19:07:28]  Loaded 1 plugins.
+
+[19:07:28] 
+[19:07:28] Filterscripts
+[19:07:28] ---------------
+[19:07:28]   Loading filterscript 'gl_actions.amx'...
+[19:07:28]   Loading filterscript 'gl_realtime.amx'...
+[19:07:28]   Loading filterscript 'gl_property.amx'...
+[19:07:28] 
+-----------------------------------
+[19:07:28] Grand Larceny Property Filterscript		
+[19:07:28] -----------------------------------
+
+[19:07:28]   Loading filterscript 'gl_mapicon.amx'...
+[19:07:28]   Loading filterscript 'ls_elevator.amx'...
+[19:07:28]   Loading filterscript 'attachments.amx'...
+[19:07:28]   Loading filterscript 'skinchanger.amx'...
+[19:07:28] 
+--Admin Player Skin Changer Loaded
+
+[19:07:28]   Loading filterscript 'vspawner.amx'...
+[19:07:28] 
+--Admin Vehicle Spawner Loaded
+
+[19:07:28]   Loading filterscript 'ls_mall.amx'...
+[19:07:28]   Loading filterscript 'ls_beachside.amx'...
+[19:07:28] 
+
+[19:07:28]   |---------------------------------------------------
+[19:07:28]   |--- LS BeachSide Filterscript
+[19:07:28]   |--  Script v1.03
+[19:07:28]   |--  19th April 2015
+[19:07:28]   |---------------------------------------------------
+[19:07:28]   |--  LS BeachSide Building Elevator created
+[19:07:28]   |---------------------------------------------------
+[19:07:28]   Loaded 10 filterscripts.
+
+[19:07:28] Reading File: blank
+[19:07:28] Reading File: properties/houses.txt
+[19:07:28] Reading File: properties/businesses.txt
+[19:07:28] Reading File: properties/banks.txt
+[19:07:28] Reading File: properties/police.txt
+[19:07:28] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[19:07:28] Number of vehicle models: 0
+[19:07:50] [connection] 127.0.0.1:64961 requests connection cookie.
+[19:07:51] [connection] incoming connection: 127.0.0.1:64961 id: 0
+[19:07:52] [join] nskkllz has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:12:11] 
+[19:12:11] Server Plugins
+[19:12:11] --------------
+[19:12:11]  Loading plugin: sscanf
+[19:12:11] 
+
+[19:12:11]  ===============================
+
+[19:12:11]       sscanf plugin loaded.     
+
+[19:12:11]          Version:  2.8.3        
+
+[19:12:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:12:11]  ===============================
+
+[19:12:11]   Loaded.
+[19:12:11]  Loaded 1 plugins.
+
+[19:12:11] 
+[19:12:11] Filterscripts
+[19:12:11] ---------------
+[19:12:11]   Loading filterscript 'gl_actions.amx'...
+[19:12:11]   Loading filterscript 'gl_realtime.amx'...
+[19:12:11]   Loading filterscript 'gl_property.amx'...
+[19:12:11] 
+-----------------------------------
+[19:12:11] Grand Larceny Property Filterscript		
+[19:12:11] -----------------------------------
+
+[19:12:11]   Loading filterscript 'gl_mapicon.amx'...
+[19:12:11]   Loading filterscript 'ls_elevator.amx'...
+[19:12:11]   Loading filterscript 'attachments.amx'...
+[19:12:11]   Loading filterscript 'skinchanger.amx'...
+[19:12:11] 
+--Admin Player Skin Changer Loaded
+
+[19:12:11]   Loading filterscript 'vspawner.amx'...
+[19:12:11] 
+--Admin Vehicle Spawner Loaded
+
+[19:12:11]   Loading filterscript 'ls_mall.amx'...
+[19:12:11]   Loading filterscript 'ls_beachside.amx'...
+[19:12:11] 
+
+[19:12:11]   |---------------------------------------------------
+[19:12:11]   |--- LS BeachSide Filterscript
+[19:12:11]   |--  Script v1.03
+[19:12:11]   |--  19th April 2015
+[19:12:11]   |---------------------------------------------------
+[19:12:11]   |--  LS BeachSide Building Elevator created
+[19:12:11]   |---------------------------------------------------
+[19:12:11]   Loaded 10 filterscripts.
+
+[19:12:11] Reading File: blank
+[19:12:11] Reading File: properties/houses.txt
+[19:12:11] Reading File: properties/businesses.txt
+[19:12:11] Reading File: properties/banks.txt
+[19:12:11] Reading File: properties/police.txt
+[19:12:11] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[19:12:11] Number of vehicle models: 0
+[19:12:50] [connection] 127.0.0.1:54211 requests connection cookie.
+[19:12:51] [connection] incoming connection: 127.0.0.1:54211 id: 0
+[19:12:51] [join] nskkllz has joined the server (0:127.0.0.1)
+[20:17:57] [part] nskkllz has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:40:07] 
+[14:40:07] Server Plugins
+[14:40:07] --------------
+[14:40:07]  Loading plugin: sscanf
+[14:40:07] 
+
+[14:40:07]  ===============================
+
+[14:40:07]       sscanf plugin loaded.     
+
+[14:40:07]          Version:  2.8.3        
+
+[14:40:07]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:40:07]  ===============================
+
+[14:40:07]   Loaded.
+[14:40:07]  Loaded 1 plugins.
+
+[14:40:07] 
+[14:40:07] Filterscripts
+[14:40:07] ---------------
+[14:40:07]   Loading filterscript 'gl_actions.amx'...
+[14:40:07]   Loading filterscript 'gl_realtime.amx'...
+[14:40:07]   Loading filterscript 'gl_property.amx'...
+[14:40:07] 
+-----------------------------------
+[14:40:07] Grand Larceny Property Filterscript		
+[14:40:07] -----------------------------------
+
+[14:40:07]   Loading filterscript 'gl_mapicon.amx'...
+[14:40:07]   Loading filterscript 'ls_elevator.amx'...
+[14:40:07]   Loading filterscript 'attachments.amx'...
+[14:40:07]   Loading filterscript 'skinchanger.amx'...
+[14:40:07] 
+--Admin Player Skin Changer Loaded
+
+[14:40:07]   Loading filterscript 'vspawner.amx'...
+[14:40:07] 
+--Admin Vehicle Spawner Loaded
+
+[14:40:07]   Loading filterscript 'ls_mall.amx'...
+[14:40:07]   Loading filterscript 'ls_beachside.amx'...
+[14:40:07] 
+
+[14:40:07]   |---------------------------------------------------
+[14:40:07]   |--- LS BeachSide Filterscript
+[14:40:07]   |--  Script v1.03
+[14:40:07]   |--  19th April 2015
+[14:40:07]   |---------------------------------------------------
+[14:40:07]   |--  LS BeachSide Building Elevator created
+[14:40:07]   |---------------------------------------------------
+[14:40:07]   Loading filterscript 'ntd.amx'...
+[14:40:07] [NTD] TextDraw editor by Nickk888 v6.1.1 has been successfully initialized!
+
+[14:40:07]   Loaded 11 filterscripts.
+
+[14:40:07] Reading File: blank
+[14:40:07] Reading File: properties/houses.txt
+[14:40:07] Reading File: properties/businesses.txt
+[14:40:07] Reading File: properties/banks.txt
+[14:40:07] Reading File: properties/police.txt
+[14:40:07] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[14:40:07] Number of vehicle models: 0
+[14:40:23] [connection] 127.0.0.1:50834 requests connection cookie.
+[14:40:24] [connection] incoming connection: 127.0.0.1:50834 id: 0
+[14:40:25] [join] Nescaaallz_Knight has joined the server (0:127.0.0.1)
+[14:40:39] RCON (In-Game): Player #0 (Nescaaallz_Knight) has logged in.
+[14:40:43] [NTD] Loading language file "ntd/languages/lang_eng.xml"
+[14:40:43] [NTD] Loading templates from "ntd/templates.xml" as language "lang_eng.xml"
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:43:12] 
+[14:43:12] Server Plugins
+[14:43:12] --------------
+[14:43:12]  Loading plugin: sscanf
+[14:43:12] 
+
+[14:43:12]  ===============================
+
+[14:43:12]       sscanf plugin loaded.     
+
+[14:43:12]          Version:  2.8.3        
+
+[14:43:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:43:12]  ===============================
+
+[14:43:12]   Loaded.
+[14:43:12]  Loaded 1 plugins.
+
+[14:43:12] 
+[14:43:12] Filterscripts
+[14:43:12] ---------------
+[14:43:12]   Loading filterscript 'gl_actions.amx'...
+[14:43:12]   Loading filterscript 'gl_realtime.amx'...
+[14:43:12]   Loading filterscript 'gl_property.amx'...
+[14:43:12] 
+-----------------------------------
+[14:43:12] Grand Larceny Property Filterscript		
+[14:43:12] -----------------------------------
+
+[14:43:12]   Loading filterscript 'gl_mapicon.amx'...
+[14:43:12]   Loading filterscript 'ls_elevator.amx'...
+[14:43:12]   Loading filterscript 'attachments.amx'...
+[14:43:12]   Loading filterscript 'skinchanger.amx'...
+[14:43:12] 
+--Admin Player Skin Changer Loaded
+
+[14:43:12]   Loading filterscript 'vspawner.amx'...
+[14:43:12] 
+--Admin Vehicle Spawner Loaded
+
+[14:43:12]   Loading filterscript 'ls_mall.amx'...
+[14:43:12]   Loading filterscript 'ls_beachside.amx'...
+[14:43:12] 
+
+[14:43:12]   |---------------------------------------------------
+[14:43:12]   |--- LS BeachSide Filterscript
+[14:43:12]   |--  Script v1.03
+[14:43:12]   |--  19th April 2015
+[14:43:12]   |---------------------------------------------------
+[14:43:12]   |--  LS BeachSide Building Elevator created
+[14:43:12]   |---------------------------------------------------
+[14:43:12]   Loading filterscript 'ntd.amx'...
+[14:43:13] [NTD] TextDraw editor by Nickk888 v6.1.1 has been successfully initialized!
+
+[14:43:13] [NTD] Loading language file "ntd/languages/lang_eng.xml"
+[14:43:13] [NTD] Loading templates from "ntd/templates.xml" as language "lang_eng.xml"
+[14:43:13]   Loaded 11 filterscripts.
+
+[14:43:13] Reading File: blank
+[14:43:13] Reading File: properties/houses.txt
+[14:43:13] Reading File: properties/businesses.txt
+[14:43:13] Reading File: properties/banks.txt
+[14:43:13] Reading File: properties/police.txt
+[14:43:13] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[14:43:13] Number of vehicle models: 0
+[14:43:22] [connection] 127.0.0.1:61391 requests connection cookie.
+[14:43:23] [connection] incoming connection: 127.0.0.1:61391 id: 0
+[14:43:23] [join] Nescaaallz_Knight has joined the server (0:127.0.0.1)
+[14:43:36] RCON (In-Game): Player #0 (Nescaaallz_Knight) has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:57:37] 
+[14:57:37] Server Plugins
+[14:57:37] --------------
+[14:57:37]  Loading plugin: sscanf
+[14:57:37] 
+
+[14:57:37]  ===============================
+
+[14:57:37]       sscanf plugin loaded.     
+
+[14:57:37]          Version:  2.8.3        
+
+[14:57:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:57:37]  ===============================
+
+[14:57:37]   Loaded.
+[14:57:37]  Loaded 1 plugins.
+
+[14:57:37] 
+[14:57:37] Filterscripts
+[14:57:37] ---------------
+[14:57:37]   Loading filterscript 'gl_actions.amx'...
+[14:57:37]   Loading filterscript 'gl_realtime.amx'...
+[14:57:37]   Loading filterscript 'gl_property.amx'...
+[14:57:37] 
+-----------------------------------
+[14:57:37] Grand Larceny Property Filterscript		
+[14:57:37] -----------------------------------
+
+[14:57:37]   Loading filterscript 'gl_mapicon.amx'...
+[14:57:37]   Loading filterscript 'ls_elevator.amx'...
+[14:57:37]   Loading filterscript 'attachments.amx'...
+[14:57:37]   Loading filterscript 'skinchanger.amx'...
+[14:57:37] 
+--Admin Player Skin Changer Loaded
+
+[14:57:37]   Loading filterscript 'vspawner.amx'...
+[14:57:37] 
+--Admin Vehicle Spawner Loaded
+
+[14:57:37]   Loading filterscript 'ls_mall.amx'...
+[14:57:37]   Loading filterscript 'ls_beachside.amx'...
+[14:57:37] 
+
+[14:57:37]   |---------------------------------------------------
+[14:57:37]   |--- LS BeachSide Filterscript
+[14:57:37]   |--  Script v1.03
+[14:57:37]   |--  19th April 2015
+[14:57:37]   |---------------------------------------------------
+[14:57:37]   |--  LS BeachSide Building Elevator created
+[14:57:37]   |---------------------------------------------------
+[14:57:37]   Loading filterscript 'ntd.amx'...
+[14:57:37] [NTD] TextDraw editor by Nickk888 v6.1.1 has been successfully initialized!
+
+[14:57:37] [NTD] Loading language file "ntd/languages/lang_eng.xml"
+[14:57:37] [NTD] Loading templates from "ntd/templates.xml" as language "lang_eng.xml"
+[14:57:37]   Loaded 11 filterscripts.
+
+[14:57:37] Reading File: blank
+[14:57:37] Reading File: properties/houses.txt
+[14:57:37] Reading File: properties/businesses.txt
+[14:57:37] Reading File: properties/banks.txt
+[14:57:37] Reading File: properties/police.txt
+[14:57:37] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[14:57:37] Number of vehicle models: 0
+[15:03:38] [connection] 127.0.0.1:52993 requests connection cookie.
+[15:03:39] [connection] incoming connection: 127.0.0.1:52993 id: 0
+[15:03:39] [join] Nescaaallz_Knight has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:04:45] 
+[15:04:45] Server Plugins
+[15:04:45] --------------
+[15:04:45]  Loading plugin: sscanf
+[15:04:45] 
+
+[15:04:45]  ===============================
+
+[15:04:45]       sscanf plugin loaded.     
+
+[15:04:45]          Version:  2.8.3        
+
+[15:04:45]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:04:45]  ===============================
+
+[15:04:45]   Loaded.
+[15:04:45]  Loaded 1 plugins.
+
+[15:04:45] 
+[15:04:45] Filterscripts
+[15:04:45] ---------------
+[15:04:45]   Loading filterscript 'gl_actions.amx'...
+[15:04:45]   Loading filterscript 'gl_realtime.amx'...
+[15:04:45]   Loading filterscript 'gl_property.amx'...
+[15:04:45] 
+-----------------------------------
+[15:04:45] Grand Larceny Property Filterscript		
+[15:04:45] -----------------------------------
+
+[15:04:45]   Loading filterscript 'gl_mapicon.amx'...
+[15:04:45]   Loading filterscript 'ls_elevator.amx'...
+[15:04:45]   Loading filterscript 'attachments.amx'...
+[15:04:45]   Loading filterscript 'skinchanger.amx'...
+[15:04:45] 
+--Admin Player Skin Changer Loaded
+
+[15:04:45]   Loading filterscript 'vspawner.amx'...
+[15:04:45] 
+--Admin Vehicle Spawner Loaded
+
+[15:04:45]   Loading filterscript 'ls_mall.amx'...
+[15:04:45]   Loading filterscript 'ls_beachside.amx'...
+[15:04:45] 
+
+[15:04:45]   |---------------------------------------------------
+[15:04:45]   |--- LS BeachSide Filterscript
+[15:04:45]   |--  Script v1.03
+[15:04:45]   |--  19th April 2015
+[15:04:45]   |---------------------------------------------------
+[15:04:45]   |--  LS BeachSide Building Elevator created
+[15:04:45]   |---------------------------------------------------
+[15:04:45]   Loading filterscript 'ntd.amx'...
+[15:04:46] [NTD] TextDraw editor by Nickk888 v6.1.1 has been successfully initialized!
+
+[15:04:46] [NTD] Loading language file "ntd/languages/lang_eng.xml"
+[15:04:46] [NTD] Loading templates from "ntd/templates.xml" as language "lang_eng.xml"
+[15:04:46]   Loaded 11 filterscripts.
+
+[15:04:46] Reading File: blank
+[15:04:46] Reading File: properties/houses.txt
+[15:04:46] Reading File: properties/businesses.txt
+[15:04:46] Reading File: properties/banks.txt
+[15:04:46] Reading File: properties/police.txt
+[15:04:46] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[15:04:46] Number of vehicle models: 0
+[15:05:02] [connection] 127.0.0.1:54981 requests connection cookie.
+[15:05:03] [connection] incoming connection: 127.0.0.1:54981 id: 0
+[15:05:03] [join] Nescaaallz_Knight has joined the server (0:127.0.0.1)
+[15:05:34] RCON (In-Game): Player #0 (Nescaaallz_Knight) has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:08:51] 
+[15:08:51] Server Plugins
+[15:08:51] --------------
+[15:08:51]  Loading plugin: sscanf
+[15:08:51] 
+
+[15:08:51]  ===============================
+
+[15:08:51]       sscanf plugin loaded.     
+
+[15:08:51]          Version:  2.8.3        
+
+[15:08:51]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:08:51]  ===============================
+
+[15:08:51]   Loaded.
+[15:08:51]  Loaded 1 plugins.
+
+[15:08:51] 
+[15:08:51] Filterscripts
+[15:08:51] ---------------
+[15:08:51]   Loading filterscript 'gl_actions.amx'...
+[15:08:51]   Loading filterscript 'gl_realtime.amx'...
+[15:08:51]   Loading filterscript 'gl_property.amx'...
+[15:08:51] 
+-----------------------------------
+[15:08:51] Grand Larceny Property Filterscript		
+[15:08:51] -----------------------------------
+
+[15:08:51]   Loading filterscript 'gl_mapicon.amx'...
+[15:08:51]   Loading filterscript 'ls_elevator.amx'...
+[15:08:51]   Loading filterscript 'attachments.amx'...
+[15:08:51]   Loading filterscript 'skinchanger.amx'...
+[15:08:51] 
+--Admin Player Skin Changer Loaded
+
+[15:08:51]   Loading filterscript 'vspawner.amx'...
+[15:08:51] 
+--Admin Vehicle Spawner Loaded
+
+[15:08:51]   Loading filterscript 'ls_mall.amx'...
+[15:08:51]   Loading filterscript 'ls_beachside.amx'...
+[15:08:51] 
+
+[15:08:51]   |---------------------------------------------------
+[15:08:51]   |--- LS BeachSide Filterscript
+[15:08:51]   |--  Script v1.03
+[15:08:51]   |--  19th April 2015
+[15:08:51]   |---------------------------------------------------
+[15:08:51]   |--  LS BeachSide Building Elevator created
+[15:08:51]   |---------------------------------------------------
+[15:08:51]   Loading filterscript 'ntd.amx'...
+[15:08:51] [NTD] TextDraw editor by Nickk888 v6.1.1 has been successfully initialized!
+
+[15:08:51] [NTD] Loading language file "ntd/languages/lang_eng.xml"
+[15:08:51] [NTD] Loading templates from "ntd/templates.xml" as language "lang_eng.xml"
+[15:08:51]   Loaded 11 filterscripts.
+
+[15:08:51] Reading File: blank
+[15:08:51] Reading File: properties/houses.txt
+[15:08:51] Reading File: properties/businesses.txt
+[15:08:51] Reading File: properties/banks.txt
+[15:08:51] Reading File: properties/police.txt
+[15:08:51] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[15:08:51] Number of vehicle models: 0
+[15:09:05] [connection] 127.0.0.1:62231 requests connection cookie.
+[15:09:06] [connection] incoming connection: 127.0.0.1:62231 id: 0
+[15:09:07] [join] Nescaaallz_Knight has joined the server (0:127.0.0.1)
+[15:11:09] [part] Nescaaallz_Knight has left the server (0:1)
+[15:27:27] [connection] 127.0.0.1:52539 requests connection cookie.
+[15:27:28] [connection] incoming connection: 127.0.0.1:52539 id: 0
+[15:27:28] [join] Nescaaallz_Knight has joined the server (0:127.0.0.1)
+[15:27:39] RCON (In-Game): Player #0 (Nescaaallz_Knight) has logged in.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:46:48] 
+[15:46:48] Server Plugins
+[15:46:48] --------------
+[15:46:48]  Loading plugin: sscanf
+[15:46:48] 
+
+[15:46:48]  ===============================
+
+[15:46:48]       sscanf plugin loaded.     
+
+[15:46:48]          Version:  2.8.3        
+
+[15:46:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:46:48]  ===============================
+
+[15:46:48]   Loaded.
+[15:46:48]  Loaded 1 plugins.
+
+[15:46:48] 
+[15:46:48] Filterscripts
+[15:46:48] ---------------
+[15:46:48]   Loading filterscript 'gl_actions.amx'...
+[15:46:48]   Loading filterscript 'gl_realtime.amx'...
+[15:46:48]   Loading filterscript 'gl_property.amx'...
+[15:46:48] 
+-----------------------------------
+[15:46:48] Grand Larceny Property Filterscript		
+[15:46:48] -----------------------------------
+
+[15:46:48]   Loading filterscript 'gl_mapicon.amx'...
+[15:46:48]   Loading filterscript 'ls_elevator.amx'...
+[15:46:48]   Loading filterscript 'attachments.amx'...
+[15:46:48]   Loading filterscript 'skinchanger.amx'...
+[15:46:48] 
+--Admin Player Skin Changer Loaded
+
+[15:46:48]   Loading filterscript 'vspawner.amx'...
+[15:46:48] 
+--Admin Vehicle Spawner Loaded
+
+[15:46:48]   Loading filterscript 'ls_mall.amx'...
+[15:46:48]   Loading filterscript 'ls_beachside.amx'...
+[15:46:48] 
+
+[15:46:48]   |---------------------------------------------------
+[15:46:48]   |--- LS BeachSide Filterscript
+[15:46:48]   |--  Script v1.03
+[15:46:48]   |--  19th April 2015
+[15:46:48]   |---------------------------------------------------
+[15:46:48]   |--  LS BeachSide Building Elevator created
+[15:46:48]   |---------------------------------------------------
+[15:46:48]   Loading filterscript 'ntd.amx'...
+[15:46:48] [NTD] TextDraw editor by Nickk888 v6.1.1 has been successfully initialized!
+
+[15:46:48] [NTD] Loading language file "ntd/languages/lang_eng.xml"
+[15:46:48] [NTD] Loading templates from "ntd/templates.xml" as language "lang_eng.xml"
+[15:46:48]   Loaded 11 filterscripts.
+
+[15:46:48] Reading File: blank
+[15:46:48] Reading File: properties/houses.txt
+[15:46:48] Reading File: properties/businesses.txt
+[15:46:48] Reading File: properties/banks.txt
+[15:46:48] Reading File: properties/police.txt
+[15:46:48] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[15:46:48] Number of vehicle models: 0
+[15:46:55] [connection] 127.0.0.1:55160 requests connection cookie.
+[15:46:56] [connection] incoming connection: 127.0.0.1:55160 id: 0
+[15:46:57] [join] Nescaaallz_Knight has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:50:04] 
+[15:50:04] Server Plugins
+[15:50:04] --------------
+[15:50:04]  Loading plugin: sscanf
+[15:50:04] 
+
+[15:50:04]  ===============================
+
+[15:50:04]       sscanf plugin loaded.     
+
+[15:50:04]          Version:  2.8.3        
+
+[15:50:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:50:04]  ===============================
+
+[15:50:04]   Loaded.
+[15:50:04]  Loaded 1 plugins.
+
+[15:50:04] 
+[15:50:04] Filterscripts
+[15:50:04] ---------------
+[15:50:04]   Loading filterscript 'gl_actions.amx'...
+[15:50:04]   Loading filterscript 'gl_realtime.amx'...
+[15:50:04]   Loading filterscript 'gl_property.amx'...
+[15:50:04] 
+-----------------------------------
+[15:50:04] Grand Larceny Property Filterscript		
+[15:50:04] -----------------------------------
+
+[15:50:04]   Loading filterscript 'gl_mapicon.amx'...
+[15:50:04]   Loading filterscript 'ls_elevator.amx'...
+[15:50:04]   Loading filterscript 'attachments.amx'...
+[15:50:04]   Loading filterscript 'skinchanger.amx'...
+[15:50:04] 
+--Admin Player Skin Changer Loaded
+
+[15:50:04]   Loading filterscript 'vspawner.amx'...
+[15:50:04] 
+--Admin Vehicle Spawner Loaded
+
+[15:50:04]   Loading filterscript 'ls_mall.amx'...
+[15:50:04]   Loading filterscript 'ls_beachside.amx'...
+[15:50:04] 
+
+[15:50:04]   |---------------------------------------------------
+[15:50:04]   |--- LS BeachSide Filterscript
+[15:50:04]   |--  Script v1.03
+[15:50:04]   |--  19th April 2015
+[15:50:04]   |---------------------------------------------------
+[15:50:04]   |--  LS BeachSide Building Elevator created
+[15:50:04]   |---------------------------------------------------
+[15:50:04]   Loading filterscript 'ntd.amx'...
+[15:50:05] [NTD] TextDraw editor by Nickk888 v6.1.1 has been successfully initialized!
+
+[15:50:05] [NTD] Loading language file "ntd/languages/lang_eng.xml"
+[15:50:05] [NTD] Loading templates from "ntd/templates.xml" as language "lang_eng.xml"
+[15:50:05]   Loaded 11 filterscripts.
+
+[15:50:05] Reading File: blank
+[15:50:05] Reading File: properties/houses.txt
+[15:50:05] Reading File: properties/businesses.txt
+[15:50:05] Reading File: properties/banks.txt
+[15:50:05] Reading File: properties/police.txt
+[15:50:05] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[15:50:05] Number of vehicle models: 0
+[15:50:18] [connection] 127.0.0.1:59504 requests connection cookie.
+[15:50:19] [connection] incoming connection: 127.0.0.1:59504 id: 0
+[15:50:20] [join] Nescaaallz_Knight has joined the server (0:127.0.0.1)
+[15:58:12] [part] Nescaaallz_Knight has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:19:26] 
+[16:19:26] Server Plugins
+[16:19:26] --------------
+[16:19:26]  Loading plugin: sscanf
+[16:19:26] 
+
+[16:19:26]  ===============================
+
+[16:19:26]       sscanf plugin loaded.     
+
+[16:19:26]          Version:  2.8.3        
+
+[16:19:26]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:19:26]  ===============================
+
+[16:19:26]   Loaded.
+[16:19:26]  Loading plugin: mysql
+[16:19:26]  >> plugin.mysql: R41-4 successfully loaded.
+[16:19:26]   Loaded.
+[16:19:26]  Loaded 2 plugins.
+
+[16:19:26] 
+[16:19:26] Filterscripts
+[16:19:26] ---------------
+[16:19:26]   Loading filterscript 'gl_actions.amx'...
+[16:19:26]   Loading filterscript 'gl_realtime.amx'...
+[16:19:26]   Loading filterscript 'gl_property.amx'...
+[16:19:26] 
+-----------------------------------
+[16:19:26] Grand Larceny Property Filterscript		
+[16:19:26] -----------------------------------
+
+[16:19:26]   Loading filterscript 'gl_mapicon.amx'...
+[16:19:26]   Loading filterscript 'ls_elevator.amx'...
+[16:19:26]   Loading filterscript 'attachments.amx'...
+[16:19:26]   Loading filterscript 'skinchanger.amx'...
+[16:19:26] 
+--Admin Player Skin Changer Loaded
+
+[16:19:26]   Loading filterscript 'vspawner.amx'...
+[16:19:26] 
+--Admin Vehicle Spawner Loaded
+
+[16:19:26]   Loading filterscript 'ls_mall.amx'...
+[16:19:26]   Loading filterscript 'ls_beachside.amx'...
+[16:19:26] 
+
+[16:19:26]   |---------------------------------------------------
+[16:19:26]   |--- LS BeachSide Filterscript
+[16:19:26]   |--  Script v1.03
+[16:19:26]   |--  19th April 2015
+[16:19:26]   |---------------------------------------------------
+[16:19:26]   |--  LS BeachSide Building Elevator created
+[16:19:26]   |---------------------------------------------------
+[16:19:26]   Loading filterscript 'ntd.amx'...
+[16:19:27] [NTD] TextDraw editor by Nickk888 v6.1.1 has been successfully initialized!
+
+[16:19:27] [NTD] Loading language file "ntd/languages/lang_eng.xml"
+[16:19:27] [NTD] Loading templates from "ntd/templates.xml" as language "lang_eng.xml"
+[16:19:27]   Loaded 11 filterscripts.
+
+[16:19:27] Reading File: blank
+[16:19:27] Reading File: properties/houses.txt
+[16:19:27] Reading File: properties/businesses.txt
+[16:19:27] Reading File: properties/banks.txt
+[16:19:27] Reading File: properties/police.txt
+[16:19:27] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:19:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:31:21] 
+[16:31:21] Server Plugins
+[16:31:21] --------------
+[16:31:21]  Loading plugin: sscanf
+[16:31:21] 
+
+[16:31:21]  ===============================
+
+[16:31:21]       sscanf plugin loaded.     
+
+[16:31:21]          Version:  2.8.3        
+
+[16:31:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:31:21]  ===============================
+
+[16:31:21]   Loaded.
+[16:31:21]  Loading plugin: mysql
+[16:31:21]  >> plugin.mysql: R41-4 successfully loaded.
+[16:31:21]   Loaded.
+[16:31:21]  Loaded 2 plugins.
+
+[16:31:21] 
+[16:31:21] Filterscripts
+[16:31:21] ---------------
+[16:31:21]   Loading filterscript 'gl_actions.amx'...
+[16:31:21]   Loading filterscript 'gl_realtime.amx'...
+[16:31:21]   Loading filterscript 'gl_property.amx'...
+[16:31:21] 
+-----------------------------------
+[16:31:21] Grand Larceny Property Filterscript		
+[16:31:21] -----------------------------------
+
+[16:31:21]   Loading filterscript 'gl_mapicon.amx'...
+[16:31:21]   Loading filterscript 'ls_elevator.amx'...
+[16:31:21]   Loading filterscript 'attachments.amx'...
+[16:31:21]   Loading filterscript 'skinchanger.amx'...
+[16:31:21] 
+--Admin Player Skin Changer Loaded
+
+[16:31:21]   Loading filterscript 'vspawner.amx'...
+[16:31:21] 
+--Admin Vehicle Spawner Loaded
+
+[16:31:21]   Loading filterscript 'ls_mall.amx'...
+[16:31:21]   Loading filterscript 'ls_beachside.amx'...
+[16:31:21] 
+
+[16:31:21]   |---------------------------------------------------
+[16:31:21]   |--- LS BeachSide Filterscript
+[16:31:21]   |--  Script v1.03
+[16:31:21]   |--  19th April 2015
+[16:31:21]   |---------------------------------------------------
+[16:31:21]   |--  LS BeachSide Building Elevator created
+[16:31:21]   |---------------------------------------------------
+[16:31:21]   Loading filterscript 'ntd.amx'...
+[16:31:22] [NTD] TextDraw editor by Nickk888 v6.1.1 has been successfully initialized!
+
+[16:31:22] [NTD] Loading language file "ntd/languages/lang_eng.xml"
+[16:31:22] [NTD] Loading templates from "ntd/templates.xml" as language "lang_eng.xml"
+[16:31:22]   Loaded 11 filterscripts.
+
+[16:31:22] Reading File: blank
+[16:31:22] Reading File: properties/houses.txt
+[16:31:22] Reading File: properties/businesses.txt
+[16:31:22] Reading File: properties/banks.txt
+[16:31:22] Reading File: properties/police.txt
+[16:31:22] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:31:22] Number of vehicle models: 0
+[16:31:45] [connection] 127.0.0.1:51122 requests connection cookie.
+[16:31:46] [connection] incoming connection: 127.0.0.1:51122 id: 0
+[16:31:46] [join] Nescaaallz_Knight has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:33:02] 
+[16:33:02] Server Plugins
+[16:33:02] --------------
+[16:33:02]  Loading plugin: sscanf
+[16:33:02] 
+
+[16:33:02]  ===============================
+
+[16:33:02]       sscanf plugin loaded.     
+
+[16:33:02]          Version:  2.8.3        
+
+[16:33:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:33:02]  ===============================
+
+[16:33:02]   Loaded.
+[16:33:02]  Loading plugin: mysql
+[16:33:02]  >> plugin.mysql: R41-4 successfully loaded.
+[16:33:02]   Loaded.
+[16:33:02]  Loaded 2 plugins.
+
+[16:33:02] 
+[16:33:02] Filterscripts
+[16:33:02] ---------------
+[16:33:02]   Loading filterscript 'gl_actions.amx'...
+[16:33:02]   Loading filterscript 'gl_realtime.amx'...
+[16:33:02]   Loading filterscript 'gl_property.amx'...
+[16:33:02] 
+-----------------------------------
+[16:33:02] Grand Larceny Property Filterscript		
+[16:33:02] -----------------------------------
+
+[16:33:02]   Loading filterscript 'gl_mapicon.amx'...
+[16:33:02]   Loading filterscript 'ls_elevator.amx'...
+[16:33:02]   Loading filterscript 'attachments.amx'...
+[16:33:02]   Loading filterscript 'skinchanger.amx'...
+[16:33:02] 
+--Admin Player Skin Changer Loaded
+
+[16:33:02]   Loading filterscript 'vspawner.amx'...
+[16:33:02] 
+--Admin Vehicle Spawner Loaded
+
+[16:33:02]   Loading filterscript 'ls_mall.amx'...
+[16:33:02]   Loading filterscript 'ls_beachside.amx'...
+[16:33:02] 
+
+[16:33:02]   |---------------------------------------------------
+[16:33:02]   |--- LS BeachSide Filterscript
+[16:33:02]   |--  Script v1.03
+[16:33:02]   |--  19th April 2015
+[16:33:02]   |---------------------------------------------------
+[16:33:02]   |--  LS BeachSide Building Elevator created
+[16:33:02]   |---------------------------------------------------
+[16:33:02]   Loading filterscript 'ntd.amx'...
+[16:33:02] [NTD] TextDraw editor by Nickk888 v6.1.1 has been successfully initialized!
+
+[16:33:02] [NTD] Loading language file "ntd/languages/lang_eng.xml"
+[16:33:02] [NTD] Loading templates from "ntd/templates.xml" as language "lang_eng.xml"
+[16:33:02]   Loaded 11 filterscripts.
+
+[16:33:02] Reading File: blank
+[16:33:02] Reading File: properties/houses.txt
+[16:33:02] Reading File: properties/businesses.txt
+[16:33:02] Reading File: properties/banks.txt
+[16:33:02] Reading File: properties/police.txt
+[16:33:02] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:33:02] Number of vehicle models: 0
+[16:34:35] [connection] 127.0.0.1:53478 requests connection cookie.
+[16:34:36] [connection] incoming connection: 127.0.0.1:53478 id: 0
+[16:34:37] [join] Nescaaallz_Knight has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:35:47] 
+[16:35:47] Server Plugins
+[16:35:47] --------------
+[16:35:47]  Loading plugin: sscanf
+[16:35:47] 
+
+[16:35:47]  ===============================
+
+[16:35:47]       sscanf plugin loaded.     
+
+[16:35:47]          Version:  2.8.3        
+
+[16:35:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:35:47]  ===============================
+
+[16:35:47]   Loaded.
+[16:35:47]  Loading plugin: mysql
+[16:35:47]  >> plugin.mysql: R41-4 successfully loaded.
+[16:35:47]   Loaded.
+[16:35:47]  Loaded 2 plugins.
+
+[16:35:47] 
+[16:35:47] Filterscripts
+[16:35:47] ---------------
+[16:35:47]   Loading filterscript 'gl_actions.amx'...
+[16:35:47]   Loading filterscript 'gl_realtime.amx'...
+[16:35:47]   Loading filterscript 'gl_property.amx'...
+[16:35:47] 
+-----------------------------------
+[16:35:47] Grand Larceny Property Filterscript		
+[16:35:47] -----------------------------------
+
+[16:35:47]   Loading filterscript 'gl_mapicon.amx'...
+[16:35:47]   Loading filterscript 'ls_elevator.amx'...
+[16:35:47]   Loading filterscript 'attachments.amx'...
+[16:35:47]   Loading filterscript 'skinchanger.amx'...
+[16:35:47] 
+--Admin Player Skin Changer Loaded
+
+[16:35:47]   Loading filterscript 'vspawner.amx'...
+[16:35:47] 
+--Admin Vehicle Spawner Loaded
+
+[16:35:47]   Loading filterscript 'ls_mall.amx'...
+[16:35:47]   Loading filterscript 'ls_beachside.amx'...
+[16:35:47] 
+
+[16:35:47]   |---------------------------------------------------
+[16:35:47]   |--- LS BeachSide Filterscript
+[16:35:47]   |--  Script v1.03
+[16:35:47]   |--  19th April 2015
+[16:35:47]   |---------------------------------------------------
+[16:35:47]   |--  LS BeachSide Building Elevator created
+[16:35:47]   |---------------------------------------------------
+[16:35:47]   Loading filterscript 'ntd.amx'...
+[16:35:47] [NTD] TextDraw editor by Nickk888 v6.1.1 has been successfully initialized!
+
+[16:35:47] [NTD] Loading language file "ntd/languages/lang_eng.xml"
+[16:35:47] [NTD] Loading templates from "ntd/templates.xml" as language "lang_eng.xml"
+[16:35:47]   Loaded 11 filterscripts.
+
+[16:35:47] Reading File: blank
+[16:35:47] Reading File: properties/houses.txt
+[16:35:47] Reading File: properties/businesses.txt
+[16:35:47] Reading File: properties/banks.txt
+[16:35:47] Reading File: properties/police.txt
+[16:35:47] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:35:47] Number of vehicle models: 0
+[16:36:00] [connection] 127.0.0.1:53487 requests connection cookie.
+[16:36:01] [connection] incoming connection: 127.0.0.1:53487 id: 0
+[16:36:01] [join] Nescaaallz_Knight has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:37:07] 
+[16:37:07] Server Plugins
+[16:37:07] --------------
+[16:37:07]  Loading plugin: sscanf
+[16:37:07] 
+
+[16:37:07]  ===============================
+
+[16:37:07]       sscanf plugin loaded.     
+
+[16:37:07]          Version:  2.8.3        
+
+[16:37:07]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:37:07]  ===============================
+
+[16:37:07]   Loaded.
+[16:37:07]  Loading plugin: mysql
+[16:37:07]  >> plugin.mysql: R41-4 successfully loaded.
+[16:37:07]   Loaded.
+[16:37:07]  Loaded 2 plugins.
+
+[16:37:07] 
+[16:37:07] Filterscripts
+[16:37:07] ---------------
+[16:37:07]   Loading filterscript 'gl_actions.amx'...
+[16:37:07]   Loading filterscript 'gl_realtime.amx'...
+[16:37:07]   Loading filterscript 'gl_property.amx'...
+[16:37:07] 
+-----------------------------------
+[16:37:07] Grand Larceny Property Filterscript		
+[16:37:07] -----------------------------------
+
+[16:37:07]   Loading filterscript 'gl_mapicon.amx'...
+[16:37:07]   Loading filterscript 'ls_elevator.amx'...
+[16:37:07]   Loading filterscript 'attachments.amx'...
+[16:37:07]   Loading filterscript 'skinchanger.amx'...
+[16:37:07] 
+--Admin Player Skin Changer Loaded
+
+[16:37:07]   Loading filterscript 'vspawner.amx'...
+[16:37:07] 
+--Admin Vehicle Spawner Loaded
+
+[16:37:07]   Loading filterscript 'ls_mall.amx'...
+[16:37:07]   Loading filterscript 'ls_beachside.amx'...
+[16:37:07] 
+
+[16:37:07]   |---------------------------------------------------
+[16:37:07]   |--- LS BeachSide Filterscript
+[16:37:07]   |--  Script v1.03
+[16:37:07]   |--  19th April 2015
+[16:37:07]   |---------------------------------------------------
+[16:37:07]   |--  LS BeachSide Building Elevator created
+[16:37:07]   |---------------------------------------------------
+[16:37:07]   Loading filterscript 'ntd.amx'...
+[16:37:08] [NTD] TextDraw editor by Nickk888 v6.1.1 has been successfully initialized!
+
+[16:37:08] [NTD] Loading language file "ntd/languages/lang_eng.xml"
+[16:37:08] [NTD] Loading templates from "ntd/templates.xml" as language "lang_eng.xml"
+[16:37:08]   Loaded 11 filterscripts.
+
+[16:37:08] Reading File: blank
+[16:37:08] Reading File: properties/houses.txt
+[16:37:08] Reading File: properties/businesses.txt
+[16:37:08] Reading File: properties/banks.txt
+[16:37:08] Reading File: properties/police.txt
+[16:37:08] Script[gamemodes/gamemode.amx]: Run time error 20: "Invalid index parameter (bad entry point)"
+[16:37:08] Number of vehicle models: 0
+[16:37:22] [connection] 127.0.0.1:49317 requests connection cookie.
+[16:37:23] [connection] incoming connection: 127.0.0.1:49317 id: 0
+[16:37:23] [join] Nescaaallz_Knight has joined the server (0:127.0.0.1)
